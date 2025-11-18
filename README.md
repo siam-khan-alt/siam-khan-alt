@@ -1,16 +1,44 @@
-## Hi there 👋
+<img src="https://i.ibb.co/3Nmd2MQ/banner.png" width="100%" />
 
-<!--
-**siam-khan-alt/siam-khan-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Your Name 👨‍💻</h1>
+<h3 align="center">Your Designation (e.g. MERN Stack Developer | React Enthusiast)</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💼 About Me
+I am a passionate web developer who loves building modern and user-friendly applications.  
+I enjoy exploring new technologies and improving my skills every day.
+
+### 🔥 Current Activities
+- 🌱 I’m currently learning **Next.js**
+- 🚀 Working on a **Tourism Website**
+- 💼 Exploring **Firebase Authentication**
+- 📚 Enhancing problem solving skills
+
+---
+
+## 🚀 Skills  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Social Links  
+[LinkedIn](https://linkedin.com/) •  
+[GitHub](https://github.com/) •  
+[Facebook](https://facebook.com/)
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
