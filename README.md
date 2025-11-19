@@ -70,8 +70,8 @@ I enjoy building full-stack applications and collaborating on web projects.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=lotus-play-store&theme=radical" />
   </a>
 
-  <a href="https://github.com/siam-khan-alt/frontend-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=frontend-app&theme=radical" />
+  <a href="https://github.com/siam-khan-alt/simple-hero-apps/tree/main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=simple-hero-apps&theme=radical" />
   </a>
 
 </div>
