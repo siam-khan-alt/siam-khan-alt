@@ -1,4 +1,4 @@
-![Banner](https://export-download.canva.com/reHsQ/DAG5HvreHsQ/6/0/0001-9196835456495122905.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20251118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251118T210301Z&X-Amz-Expires=40938&X-Amz-Signature=5657091b0b0c2a3909416a9f3df3042419df9ac303d57567175f77d327aa67b2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Black%2520Minimalist%2520Motivation%2520Quote%2520LinkedIn%2520Banner.png&response-expires=Wed%2C%2019%20Nov%202025%2008%3A25%3A19%20GMT)
+![Banner](https://i.ibb.co.com/yBfFPYSY/Black-Minimalist-Motivation-Quote-Linked-In-Banner.png)
 # Hi 👋 My name is **Siam Khan**
 
 ### **Frontend Developer (React) | Learning MERN Stack Backend**
