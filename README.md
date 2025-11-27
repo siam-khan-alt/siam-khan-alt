@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/yBfFPYSY/Black-Minimalist-Motivation-Quote-Linked-In-Banner.png" alt="Banner" width="100%" />
+<img src="./Black Minimalist Motivation Quote LinkedIn Banner.png" alt="Banner" width="100%" />
 
 ---
 # Hi 👋 My name is **Siam Khan**
