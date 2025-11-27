@@ -1,4 +1,6 @@
-![Banner](https://i.ibb.co.com/yBfFPYSY/Black-Minimalist-Motivation-Quote-Linked-In-Banner.png)
+<img src="https://i.ibb.co.com/yBfFPYSY/Black-Minimalist-Motivation-Quote-Linked-In-Banner.png" alt="Banner" width="100%" />
+
+---
 # Hi 👋 My name is **Siam Khan**
 
 ### **Frontend Developer (React) | Learning MERN Stack Backend**
