@@ -63,21 +63,17 @@ I enjoy building full-stack applications and collaborating on web projects.
 
 ## 📌 Top Repositories
 
-<div align="left">
+- **🚗 Travel Ease Client (MERN Full-Stack)**
+  > Built a vehicle booking application. Used React, Node, Express, and MongoDB.
+  > [[Client Code]](https://github.com/siam-khan-alt/travel-ease-client) | [[Server Code]](https://github.com/siam-khan-alt/travel-ease-server)
 
-  <a href="https://github.com/siam-khan-alt/travel-ease-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=travel-ease-client&theme=radical" />
-  </a>
+- **🎮 Lotus Play Store (Frontend)**
+  > Game discovery platform with secure Firebase authentication and responsive UI.
+  > [[Repo Link]](https://github.com/siam-khan-alt/lotus-play-store)
 
-  <a href="https://github.com/siam-khan-alt/lotus-play-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=lotus-play-store&theme=radical" />
-  </a>
-
-  <a href="https://github.com/siam-khan-alt/skill-swap-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=simple-hero-apps&theme=radical" />
-  </a>
-
-</div>
+- **👥 Skill Swap Hub (Next.js Full-Stack)**
+  > Collaboration and learning exchange web application built with Next.js.
+  > [[Client Code]](https://github.com/siam-khan-alt/skill-swap-hub) | [[Server Code]](https://github.com/siam-khan-alt/skill-swap-server)
 
 
 ---
