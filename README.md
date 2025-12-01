@@ -65,7 +65,7 @@ I enjoy building full-stack applications and collaborating on web projects.
 
 <div align="left">
 
-  <a href="https://github.com/siam-khan-alt/travel-ease-client/tree/main">
+  <a href="https://github.com/siam-khan-alt/travel-ease-client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=travel-ease-client&theme=radical" />
   </a>
 
@@ -73,7 +73,7 @@ I enjoy building full-stack applications and collaborating on web projects.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=lotus-play-store&theme=radical" />
   </a>
 
-  <a href="https://github.com/siam-khan-alt/simple-hero-apps/tree/main">
+  <a href="https://github.com/siam-khan-alt/skill-swap-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siam-khan-alt&repo=simple-hero-apps&theme=radical" />
   </a>
 
