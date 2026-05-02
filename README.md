@@ -57,15 +57,18 @@ I am a highly motivated **MERN Stack Developer** specializing in building scalab
 - **Key:** Real-time messaging, calorie management, and dynamic progress charts.
 - [Live Link](https://flexify-my-fitness-planner.vercel.app/) | [Github](https://github.com/dev-golamrabbi-222005-mern/FLEXIFY)
 
-### 2. 🚗 **Travel Ease** (Vehicle Booking App)
-- **Tech:** MERN Stack, Firebase, Framer Motion, Stripe API, Recharts.
-- **Key:** Multi-role dashboard (RBAC), secure Stripe payments, and interactive booking calendar.
-- [Live Link](https://travel-ease-booking.web.app/) | [Client](https://github.com/siam-khan-alt/travel-ease-client)
 
-### 3. 🌐 **ClubSphere** (Community Management)
+### 2. 🌐 **ClubSphere** (Community Management)
 - **Tech:** MERN Stack, Stripe API, TanStack Query, Recharts, Firebase.
 - **Key:** Membership fee automation, event registration, and real-time business insights.
-- [Live Link](https://clubsphere-management.web.app/) | [Client](https://github.com/siam-khan-alt/clubsphere-client)
+- [Live Link](https://clubsphere-client.vercel.app/) | [Client](https://github.com/siam-khan-alt/clubsphere-client)
+
+
+### 3. 🚗 **Travel Ease** (Vehicle Booking App)
+- **Tech:** MERN Stack, Firebase, Framer Motion, Stripe API, Recharts.
+- **Key:** Multi-role dashboard (RBAC), secure Stripe payments, and interactive booking calendar.
+- [Live Link](https://travel-ease-drab.vercel.app/) | [Client](https://github.com/siam-khan-alt/travel-ease-client)
+
 
 ---
 
