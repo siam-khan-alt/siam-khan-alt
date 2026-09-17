@@ -145,7 +145,7 @@ A full-stack vehicle booking app with multi-role access, interactive calendar-ba
 
 ---
 
-## Connect With Me
+## Connect With Siam
 
 <div align="center">
   <a href="https://www.linkedin.com/in/siam-khan-sp99/">
