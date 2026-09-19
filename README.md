@@ -29,7 +29,6 @@ Full Stack Developer specializing in **Next.js**, **React**, and **Node.js** —
 
 - Based in Gafargaon, Mymensingh, Bangladesh
 - 3rd Year BBA Student at Kaliakair Govt. College
-- Open to full-time on-site and remote roles
 - nssiam99@gmail.com | +8801881361160
 
 ---
