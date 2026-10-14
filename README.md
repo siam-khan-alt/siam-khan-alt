@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/siam-khan-alt">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%26+React+Specialist;Building+Production-Grade+Web+Apps;Real-Time+%7C+AI+%7C+Payment+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%26+Django+Specialist;ERP+Education+Systems+Developer;Real-Time+%7C+AI+%7C+POS+%26+Payment+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,17 +23,18 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Full Stack Developer specializing in **Next.js**, **React**, and **Node.js** — building production-grade web apps with real-time systems, AI integrations, and payment gateways. Focused on clean architecture, scalable code, and delivering real business value.
+Software Developer specializing in **Next.js**, **Node.js**, **Django**, and **PostgreSQL** — building production-grade web applications, enterprise ERP systems, real-time architectures, and payment solutions.
 
-- Based in Gafargaon, Mymensingh, Bangladesh
-- 3rd Year BBA Student at Kaliakair Govt. College
-- nssiam99@gmail.com | +8801881361160
+- 💼 **Software Developer (Full-Stack)** at **IYLMA Innovation Limited** (Managing end-to-end ERP Education Systems)
+- 📍 Based in **Uttara, Dhaka, Bangladesh**
+- 🎓 3rd Year BBA Student at Kaliakair Govt. College
+- 📧 nssiam99@gmail.com | 📱 +8801881361160
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 <p>
@@ -42,11 +43,12 @@ Full Stack Developer specializing in **Next.js**, **React**, and **Node.js** —
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,py,mongodb,postgres,firebase,postman" />
 </p>
 
 ### Libraries & Integrations
 <p>
+  <img src="https://img.shields.io/badge/-Django REST Framework-A6032F?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-TanStack Query-FF4154?style=flat&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/-NextAuth.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
@@ -54,9 +56,8 @@ Full Stack Developer specializing in **Next.js**, **React**, and **Node.js** —
   <img src="https://img.shields.io/badge/-SSLCommerz-00A859?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pusher-300D4F?style=flat&logo=pusher&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google AI SDK-4285F4?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Recharts-22B5AD?style=flat&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Recharts-22B5AD?style=flat&logo=chartdotjs&logoColor=white" />
 </p>
 
 ### AI-Assisted Development Tools
@@ -69,46 +70,44 @@ Full Stack Developer specializing in **Next.js**, **React**, and **Node.js** —
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### AqualinkBD — Digital Aquaculture Platform
+### 🍱 Bhoj Bilash OS — Restaurant Management System
+> Full Stack | Solo Project | *(Backend In Progress)*
+
+A comprehensive restaurant management operating system featuring multi-role access, fast POS billing, attendance, and bilingual ledger tracking.
+
+**Tech:** Next.js 15, TypeScript, Tailwind CSS 4, Django REST Framework, PostgreSQL, JWT
+
+- Multi-role RBAC dashboard (Admin, Staff, Manager)
+- 1-tap POS billing engine supporting parcel splits and custom orders
+- Staff salary management, Hajira attendance, and expense ledger
+- Complete bilingual support (Bangla & English)
+
+[![Live](https://img.shields.io/badge/Live-Visit-00C853?style=flat&logo=vercel&logoColor=white)](https://bhoj-bilash-os.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/siam-khan-alt/Bhoj-Bilash-OS)
+
+---
+
+### 🐟 AqualinkBD — Digital Aquaculture Platform
 > Full Stack | Solo Project
 
 A production-grade aquaculture management platform for Bangladeshi fish farmers — combining pond analytics, AI disease detection, doctor consultations, and course monetization.
 
-**Tech:** Next.js 15+, TypeScript, MongoDB, Pusher, SSLCommerz, Google AI SDK
+**Tech:** Next.js 16, TypeScript, MongoDB, Pusher, SSLCommerz, Google AI SDK
 
 - Multi-role RBAC (Farmer, Verified Doctor, Admin) with NextAuth session management
 - AI-powered fish disease detection using Google Generative AI Vision SDK
 - Course monetization via SSLCommerz supporting bKash, Nagad, and Rocket
 - Real-time farmer-doctor messaging via Pusher Channels
-- ISR-backed market price control panel for admins
-- Interactive pond analytics dashboard with expense tracking and Recharts
+- ISR-backed market price control panel for admins and interactive analytics via Recharts
 
 [![Live](https://img.shields.io/badge/Live-Visit-00C853?style=flat&logo=vercel&logoColor=white)](https://aqualinkbd.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/siam-khan-alt/AquaLink-BD)
 
 ---
 
-### Flexify — Fitness & Nutrition Planner
-> Full Stack | Team Project (6 members)
-
-A smart fitness platform for personalized workout and nutrition management with real-time coach-user communication and dynamic progress tracking.
-
-**Tech:** Next.js 16, TypeScript, MongoDB, Pusher, TanStack Query, Tailwind CSS 4
-
-- Integrated third-party Exercise API with complete exercise browsing and search
-- Built full user backend with authentication, session management, and protected routes
-- Developed user dashboard with calorie tracking and workout logging
-- Built admin backend with user management and platform control features
-- Real-time coach-user messaging system via Pusher Channels
-
-[![Live](https://img.shields.io/badge/Live-Visit-00C853?style=flat&logo=vercel&logoColor=white)](https://flexify-my-fitness-planner.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dev-golamrabbi-222005-mern/FLEXIFY)
-
----
-
-### Travel Ease — Vehicle Booking Platform
+### 🚗 Travel Ease — Vehicle Booking Platform
 > Full Stack | Solo Project
 
 A full-stack vehicle booking app with multi-role access, interactive calendar-based scheduling, and secure Stripe payment processing.
@@ -117,9 +116,7 @@ A full-stack vehicle booking app with multi-role access, interactive calendar-ba
 
 - Multi-role dashboard (Admin, Host, User) with secure RBAC and protected routes
 - Interactive calendar booking with dynamic date blocking and real-time notifications
-- Stripe payment integration with booking confirmation and transaction history
-- Smooth UI animations using Framer Motion
-- Analytics dashboard with booking statistics using Recharts
+- Secure Stripe payment integration with booking confirmation and transaction history
 
 [![Live](https://img.shields.io/badge/Live-Visit-00C853?style=flat&logo=vercel&logoColor=white)](https://travel-ease-drab.vercel.app/)
 [![Client](https://img.shields.io/badge/GitHub-Client-181717?style=flat&logo=github&logoColor=white)](https://github.com/siam-khan-alt/travel-ease-client)
@@ -127,7 +124,7 @@ A full-stack vehicle booking app with multi-role access, interactive calendar-ba
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siam-khan-alt&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -144,7 +141,7 @@ A full-stack vehicle booking app with multi-role access, interactive calendar-ba
 
 ---
 
-## Connect With Siam
+## 🤝 Connect With Siam
 
 <div align="center">
   <a href="https://www.linkedin.com/in/siam-khan-sp99/">
