@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Black Minimalist Motivation Quote LinkedIn Banner.png" alt="Banner" width="100%" />
+  <img src="./image.png" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
