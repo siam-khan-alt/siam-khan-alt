@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-Software Developer specializing in **Next.js**, **Node.js**, **Django**, and **PostgreSQL** — building production-grade web applications, enterprise ERP systems, real-time architectures, and payment solutions.
+Software Developer specializing in **Next.js**, **Node.js**, **Django**, and **PostgreSQL** — building production-grade web applications, enterprise ERP Education systems, real-time architectures, and payment solutions.
 
 - 💼 **Software Developer (Full-Stack)** at **IYLMA Innovation Limited** (Managing end-to-end ERP Education Systems)
 - 📍 Based in **Uttara, Dhaka, Bangladesh**
